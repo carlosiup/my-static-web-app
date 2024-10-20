@@ -8,7 +8,7 @@ import { ProductService } from './product.service';
   template: `
     <div class="content-container">
       <app-list-header
-        title="Products"
+        title="Productsx"
         (refresh)="getProducts()"
       ></app-list-header>
       <div class="columns is-multiline is-variable">
